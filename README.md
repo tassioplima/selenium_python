@@ -1,2 +1,4 @@
 # selenium_python
-#pipenv
+#pipenv dependencies management 
+#chromedriver
+
